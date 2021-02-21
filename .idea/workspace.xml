@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/2552/2523/build-jobs" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/build-jobs" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/jenkins-config" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/outage-pages" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="132" />
+    <option name="y" value="44" />
+    <option name="width" value="1400" />
+    <option name="height" value="836" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1613937950245" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/1529/FinalChanges/paye" value="PREVIEW" />
+        <entry key="$USER_HOME$/1529/MahaFinalChange/paye" value="PREVIEW" />
+        <entry key="$USER_HOME$/1529/master/paye" value="PREVIEW" />
+        <entry key="$USER_HOME$/1529/paye" value="PREVIEW" />
+        <entry key="$USER_HOME$/18Sep2019/futures" value="PREVIEW" />
+        <entry key="$USER_HOME$/18Sep2019/library" value="PREVIEW" />
+        <entry key="$USER_HOME$/18Sep2019/new/os-scala-exercises" value="PREVIEW" />
+        <entry key="$USER_HOME$/1965/tax-summaries-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/1979/tax-summaries-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/1980/tax-summaries" value="PREVIEW" />
+        <entry key="$USER_HOME$/1981/beforeJohn/tax-summaries-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/1981/john/tax-summaries-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/1981/latest/tax-summaries-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/1981/tax-summaries-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/1982/tax-summaries" value="PREVIEW" />
+        <entry key="$USER_HOME$/2181/paye-stubs" value="PREVIEW" />
+        <entry key="$USER_HOME$/2203/tax-summaries-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/2214/tax-summaries" value="PREVIEW" />
+        <entry key="$USER_HOME$/2215/tax-summaries-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/2246/benefits" value="PREVIEW" />
+        <entry key="$USER_HOME$/2246/c2ni-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/2246/tariff-classification-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/2249/tai" value="PREVIEW" />
+        <entry key="$USER_HOME$/2251/EntireChanges/eps-transfer-agent" value="PREVIEW" />
+        <entry key="$USER_HOME$/2251/agent-client-mandate" value="PREVIEW" />
+        <entry key="$USER_HOME$/2251/bootstrap/agent-client-mandate" value="PREVIEW" />
+        <entry key="$USER_HOME$/2251/bootstrap/binding-tariff-trader-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/2251/bootstrap/eps-transfer-agent" value="PREVIEW" />
+        <entry key="$USER_HOME$/2251/branch/eps-transfer-agent" value="PREVIEW" />
+        <entry key="$USER_HOME$/2251/coronavirus-jrs-published-employees" value="PREVIEW" />
+        <entry key="$USER_HOME$/2251/eps-transfer-agent" value="PREVIEW" />
+        <entry key="$USER_HOME$/2251/fandf-acceptance-tests" value="PREVIEW" />
+        <entry key="$USER_HOME$/2251/master/eps-transfer-agent" value="PREVIEW" />
+        <entry key="$USER_HOME$/2251/message" value="PREVIEW" />
+        <entry key="$USER_HOME$/2251/payments-bin-check-acceptance-tests" value="PREVIEW" />
+        <entry key="$USER_HOME$/2251/third-party-delegated-authority" value="PREVIEW" />
+        <entry key="$USER_HOME$/2253/eps-hods-adapter" value="PREVIEW" />
+        <entry key="$USER_HOME$/2253/feedback-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/2262/master/paye" value="PREVIEW" />
+        <entry key="$USER_HOME$/2262/paye" value="PREVIEW" />
+        <entry key="$USER_HOME$/2268/final/pension-annual-allowance-calculator" value="PREVIEW" />
+        <entry key="$USER_HOME$/2268/pension-annual-allowance-calculator" value="PREVIEW" />
+        <entry key="$USER_HOME$/2268/pension-annual-allowance-calculator-acceptance-tests" value="PREVIEW" />
+        <entry key="$USER_HOME$/22ATSBugFix/tax-summaries" value="PREVIEW" />
+        <entry key="$USER_HOME$/2304/eps-hods-adapter" value="PREVIEW" />
+        <entry key="$USER_HOME$/2304/eps-message-renderer" value="PREVIEW" />
+        <entry key="$USER_HOME$/2304/eps-transfer-agent" value="PREVIEW" />
+        <entry key="$USER_HOME$/2313/benefits-acceptance-tests" value="PREVIEW" />
+        <entry key="$USER_HOME$/2313/benefits-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/2313/final/benefits-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/2499/cocar-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/2523/c2ni" value="PREVIEW" />
+        <entry key="$USER_HOME$/2523/c2ni-acceptance-tests" value="PREVIEW" />
+        <entry key="$USER_HOME$/2523/c2ni-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/2523/c2ni-stubs" value="PREVIEW" />
+        <entry key="$USER_HOME$/2523/ers-returns-acceptance-tests" value="PREVIEW" />
+        <entry key="$USER_HOME$/2523/final/c2ni-acceptance-tests" value="PREVIEW" />
+        <entry key="$USER_HOME$/2523/new/c2ni" value="PREVIEW" />
+        <entry key="$USER_HOME$/2523/new/c2ni-acceptance-tests" value="PREVIEW" />
+        <entry key="$USER_HOME$/2552/2523/c2ni-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/2552/benefits-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/2552/c2ni" value="PREVIEW" />
+        <entry key="$USER_HOME$/2552/c2ni-acceptance-tests" value="PREVIEW" />
+        <entry key="$USER_HOME$/2552/tai-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/2570/tai" value="PREVIEW" />
+        <entry key="$USER_HOME$/2570/tai-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/2614/tax-summaries-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/2615/benefits-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/2751/fandf-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/2759/feedback-survey-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/2820/New/tax-summaries-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/2820/Untitled Folder/tax-summaries-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/2820/pension-annual-allowance-calculator-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/2820/tax-summaries" value="PREVIEW" />
+        <entry key="$USER_HOME$/2820/tax-summaries-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/2868/final changes/tax-summaries" value="PREVIEW" />
+        <entry key="$USER_HOME$/2868/final changes/tax-summaries-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/2868/final changes/tax-summaries-stubs" value="PREVIEW" />
+        <entry key="$USER_HOME$/2868/tax-summaries" value="PREVIEW" />
+        <entry key="$USER_HOME$/2868/tax-summaries-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/2868/tax-summaries-stubs" value="PREVIEW" />
+        <entry key="$USER_HOME$/2872/alert-config" value="PREVIEW" />
+        <entry key="$USER_HOME$/2872/tax-summaries" value="PREVIEW" />
+        <entry key="$USER_HOME$/2872/tax-summaries-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/2872/tax-summaries-stubs" value="PREVIEW" />
+        <entry key="$USER_HOME$/2878/final changes/tax-summaries" value="PREVIEW" />
+        <entry key="$USER_HOME$/2878/final changes/tax-summaries-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/2878/tax-summaries" value="PREVIEW" />
+        <entry key="$USER_HOME$/2878/tax-summaries-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/2878/tax-summaries-stubs" value="PREVIEW" />
+        <entry key="$USER_HOME$/2880/tax-summaries-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/2883/tax-summaries-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/2922/tax-summaries" value="PREVIEW" />
+        <entry key="$USER_HOME$/2922/tax-summaries-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/2945/3115/tax-summaries" value="PREVIEW" />
+        <entry key="$USER_HOME$/2945/3115/tax-summaries-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/2945/3115/tax-summaries-stubs" value="PREVIEW" />
+        <entry key="$USER_HOME$/2945/branch/tax-summaries-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/2945/pertax-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/2945/tax-summaries-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/2955/eps-hods-adapter" value="PREVIEW" />
+        <entry key="$USER_HOME$/2955/tax-summaries" value="PREVIEW" />
+        <entry key="$USER_HOME$/2955/tax-summaries-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/2955/tax-summaries-stubs" value="PREVIEW" />
+        <entry key="$USER_HOME$/2963/final/tax-summaries" value="PREVIEW" />
+        <entry key="$USER_HOME$/2963/final/tax-summaries-stubs" value="PREVIEW" />
+        <entry key="$USER_HOME$/2963/tax-summaries" value="PREVIEW" />
+        <entry key="$USER_HOME$/2963/tax-summaries-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/2963/tax-summaries-stubs" value="PREVIEW" />
+        <entry key="$USER_HOME$/3016/tax-summaries" value="PREVIEW" />
+        <entry key="$USER_HOME$/3016/tax-summaries-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/3085/tax-summaries" value="PREVIEW" />
+        <entry key="$USER_HOME$/3085/tax-summaries-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/3139/benefits-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/3140/cocar-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/3142/tax-summaries-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/3193/tax-summaries-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/3217/tax-summaries-acceptance-tests" value="PREVIEW" />
+        <entry key="$USER_HOME$/3222/Bootstrap_changes/fandf-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/3222/attorney" value="PREVIEW" />
+        <entry key="$USER_HOME$/3222/benefits-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/3222/c2ni-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/3222/changes/fandf-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/3222/childcare-calculator-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/3222/company-auth-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/3222/eori-common-component-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/3222/epaye-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/3222/fandf" value="PREVIEW" />
+        <entry key="$USER_HOME$/3222/fandf-acceptance-tests" value="PREVIEW" />
+        <entry key="$USER_HOME$/3222/fandf-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/3222/master/fandf-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/3222/paye-core-acceptance-tests" value="PREVIEW" />
+        <entry key="$USER_HOME$/3222/tax-summaries-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/3222/tcs-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/3319/fandf" value="PREVIEW" />
+        <entry key="$USER_HOME$/3319/professional-subscriptions-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/3319/tax-summaries" value="PREVIEW" />
+        <entry key="$USER_HOME$/3319/tax-summaries-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../fandf-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../identity-verification" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../soft-drinks-industry-levy-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../tai" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../tai-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../tai-stubs" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../voa-property-linking" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../pay-as-you-earn-stub" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../tai" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../tai-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../tai-stubs" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../tax-summaries-stubs" value="PREVIEW" />
+        <entry key="$USER_HOME$/4254/ated" value="PREVIEW" />
+        <entry key="$USER_HOME$/6070/marriage-allowance" value="PREVIEW" />
+        <entry key="$USER_HOME$/77/feedback-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/77/feedback-survey-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/ATS-111-merge/tax-summaries-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/ATS-111/tax-summaries-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/ATS-111/tax-summaries-stubs" value="PREVIEW" />
+        <entry key="$USER_HOME$/ATS-227/tax-summaries" value="PREVIEW" />
+        <entry key="$USER_HOME$/ATS-241/tax-summaries-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/DDCNL-513/lisa-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/My_Learning/Cat Scala/scalawithcats" value="PREVIEW" />
+        <entry key="$USER_HOME$/My_Learning/Cat Scala/shikhashhhvshikha" value="PREVIEW" />
+        <entry key="$USER_HOME$/PostCodeFixATED/1642/ated" value="PREVIEW" />
+        <entry key="$USER_HOME$/PostCodeFixATED/1642/ated-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/benefits" value="PREVIEW" />
+        <entry key="$USER_HOME$/bootstrap-play-26" value="PREVIEW" />
+        <entry key="$USER_HOME$/cocar-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/fandf-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/fandf-service-catalogue" value="PREVIEW" />
+        <entry key="$USER_HOME$/library" value="PREVIEW" />
+        <entry key="$USER_HOME$/lisa-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/marriage-allowance" value="PREVIEW" />
+        <entry key="$USER_HOME$/paye" value="PREVIEW" />
+        <entry key="$USER_HOME$/paye-stubs" value="PREVIEW" />
+        <entry key="$USER_HOME$/pertax-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/play-framework-validation-example" value="PREVIEW" />
+        <entry key="$USER_HOME$/professional-subscriptions-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/repayments-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/tai" value="PREVIEW" />
+        <entry key="$USER_HOME$/tai-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/tax-summaries" value="PREVIEW" />
+        <entry key="$USER_HOME$/tax-summaries-acceptance-tests" value="PREVIEW" />
+        <entry key="$USER_HOME$/tax-summaries-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/tax-summaries-stubs" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/affinity-group-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/agent-client-mandate" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/agent-client-mandate-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/alert-config" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/apprenticeship-levy" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/ated" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/ated-acceptance-tests" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/ated-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/ated-stub" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/ated-subscription" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/ated-subscription-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/attachments" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/attorney" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/auth-login-stub" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/benefits" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/benefits-acceptance-tests" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/benefits-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/benefits-performance-test" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/birth-registration-matching" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/birth-registration-matching-acceptance-tests" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/birth-registration-matching-contract-tests" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/birth-registration-matching-nrs-contract-tests" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/birth-registration-matching-performance-tests" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/birth-registration-matching-proxy" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/birth-registration-matching-stub" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/business-customer" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/business-customer-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/business-customer-stub" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/business-tax-account" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/c2ni" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/c2ni-acceptance-tests" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/c2ni-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/catalogue-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/charities-registration-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/citizen-details" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/cocar-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/contact-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/digital-services-tax-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/emac-support-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/email-verification" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/employee-expenses-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/enrolment-store-proxy" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/epaye-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/eps-hods-adapter" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/eps-performance-testing" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/eps-perfs-test" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/eps-transfer-agent" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/ers-checking-acceptance-tests" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/ers-file-validator" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/ers-returns" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/ers-returns-acceptance-tests" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/ers-returns-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/ers-submissions" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/fandf" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/fandf-acceptance-tests" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/fandf-stubs" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/frontend-template-provider" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/gform-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/gmp" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/gmp-bulk" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/gmp-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/gmp-stubs/gmp-stubs" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/grafana-dashboards" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/help-to-save-reminder" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/home-office-settled-status-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/http-verbs" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/identity-verification" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/identity-verification-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/income-tax-subscription-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/individual-paye-acceptance-tests" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/individuals-paye" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/kibana-dashboards" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/lisa" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/lisa-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/lisa-api-tests" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/lisa-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/lisa-performance-tests" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/live-incident-support-tool" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/ma-api-acceptance-tests" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/ma-api-performance-tests" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/marriage-allowance" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/marriage-allowance-des-stub" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/message" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/message-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/mobile-help-to-save" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/nisp-sapeak-performance-tests" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/pay-as-you-earn-stub" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/paye" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/paye-acceptance-tests" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/paye-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/paye-stubs" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/pbik" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/pbik-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/pension-administrator" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/pension-administrator-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/pensions-scheme-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/pertax-acceptance-tests" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/pertax-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/platform-analytics" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/ras-acceptance-tests" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/ras-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/ras-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/ras-stubs" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/real-time-income-information" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/repayments" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/repayments-acceptance-tests" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/repayments-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/request-corporation-tax-number-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/rtii-performance-tests" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/sa" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/self-assessment-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/state-pension" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/tai" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/tai-acceptance-test-suite" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/tai-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/tai-frontend-history" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/tai-history" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/tai-stubs" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/tamc" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/tamc-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/tax-credits-broker" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/tax-summaries" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/tax-summaries-acceptance-tests" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/tax-summaries-agent" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/tax-summaries-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/tax-summaries-perf-test" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/taxcalc" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/taxcalc-acceptance-tests" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/taxcalc-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/tcs-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/team-indicators-frontend" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/third-party-delegated-authority" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/trusts" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
